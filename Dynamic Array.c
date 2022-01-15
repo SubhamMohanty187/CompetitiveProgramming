@@ -6,7 +6,8 @@
 #define MAX_N_Q 100000
 #define MAX_X_Y 1000000000
 
-typedef struct linklist {
+typedef struct linklist 
+{
     int data;
     struct linklist *next;
 }linknode, *linklistp;
