@@ -28,7 +28,6 @@ for(i=0;i<arr_rows-2;i++)
         }     
     }
 }
-
 return max;
 }
 
