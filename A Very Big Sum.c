@@ -49,7 +49,6 @@ int main()
     fprintf(fptr, "%ld\n", result);
 
     fclose(fptr);
-
     return 0;
 }
 
