@@ -34,7 +34,8 @@ linklistp insert_tail(linklistp head,linklistp newnode)
     return head;
 }
 
-void outputlinklist(linklistp head) {
+void outputlinklist(linklistp head) 
+{
     linklistp temp = head;
     while(temp)    {
         printf("%d",temp->data);
