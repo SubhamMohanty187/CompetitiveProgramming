@@ -21,6 +21,7 @@ l= l + *(ar+i);
 }
 return l;
 }
+
 int main()
 {
     FILE* fptr = fopen(getenv("OUTPUT_PATH"), "w");
