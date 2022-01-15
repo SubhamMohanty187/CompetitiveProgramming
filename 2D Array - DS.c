@@ -42,6 +42,7 @@ int main()
 
         char** arr_item_temp = split_string(readline());
 
+        
         for (int j = 0; j < 6; j++) {
             char* arr_item_endptr;
             char* arr_item_str = *(arr_item_temp + j);
