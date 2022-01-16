@@ -10,6 +10,7 @@ int main()
         cin>>pricegreen>>pricepurple;
         int N;
         cin>>N;
+        
         bool problem1;
         bool problem2;
         int count1 = 0; 
