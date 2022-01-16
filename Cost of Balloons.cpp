@@ -16,7 +16,7 @@ int main()
         int count1 = 0; 
         int count2 = 0;
 
-        for(int i = 0 ; i<N; i++)
+        for(int i = 0 ; i < N; i++)
         {
             cin>>problem1;
             cin>>problem2;
