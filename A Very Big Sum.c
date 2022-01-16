@@ -22,6 +22,7 @@ l= l + *(ar+i);
 return l;
 }
 
+
 int main()
 {
     FILE* fptr = fopen(getenv("OUTPUT_PATH"), "w");
@@ -40,7 +41,6 @@ int main()
         long ar_item = strtol(ar_item_str, &ar_item_endptr, 10);
 
         if (ar_item_endptr == ar_item_str || *ar_item_endptr != '\0') { exit(EXIT_FAILURE); }
-
         *(ar + i) = ar_item;
     }
 
