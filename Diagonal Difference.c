@@ -42,7 +42,6 @@ int diagonalDifference(int arr_rows, int arr_columns, int** arr) {
         }
     }
     return abs(s1-s2);
-
 }
 
 int main()
