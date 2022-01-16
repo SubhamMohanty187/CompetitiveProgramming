@@ -64,7 +64,6 @@ int *p= malloc(2*sizeof(int));
 *(p+0)=g;
 *(p+1)=l;
 return p;
-
 }
 
 int main()
