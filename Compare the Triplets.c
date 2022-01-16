@@ -38,7 +38,6 @@ char** split_string(char*);
  *     for (int i = 0; i < 5; i++) {
  *         *(a + i) = i + 1;
  *     }
- *
  *     return a;
  * }
  *
