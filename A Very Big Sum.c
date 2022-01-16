@@ -57,7 +57,8 @@ char* readline() {
     size_t data_length = 0;
     char* data = malloc(alloc_length);
 
-    while (true) {
+    while (true) 
+    {
         char* cursor = data + data_length;
         char* line = fgets(cursor, alloc_length - data_length, stdin);
 
