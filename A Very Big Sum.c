@@ -31,7 +31,9 @@ int main()
     char* ar_count_str = readline();
     int ar_count = strtol(ar_count_str, &ar_count_endptr, 10);
 
-    if (ar_count_endptr == ar_count_str || *ar_count_endptr != '\0') { exit(EXIT_FAILURE); }
+    if (ar_count_endptr == ar_count_str || *ar_count_endptr != '\0') 
+    { exit(EXIT_FAILURE); }
+    
     char** ar_temp = split_string(readline());
     long* ar = malloc(ar_count * sizeof(long));
 
