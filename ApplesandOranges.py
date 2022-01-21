@@ -1,5 +1,5 @@
 def countApplesAndOranges(s, t, a, b, apples, oranges):
-    # Write your code here
+    
     s1 = []
     t1 = []
     for i in apples:
