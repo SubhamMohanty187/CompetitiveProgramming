@@ -21,6 +21,6 @@ int main()
 	if(f)
 	  cout<<"NO";
 	else
-	cout<<"YES";
+	  cout<<"YES";
 	return 0;
 }
