@@ -5,7 +5,7 @@ int main()
 {
 	int n,i;
 	cin>>n;
-
+	
 	cout<<"*   *"<<endl;
 	cout<<"*   *"<<endl;
 	for(i=0;i<n;i++)
@@ -14,5 +14,6 @@ int main()
 		cout<<"*   *"<<endl;
 		cout<<"*   *"<<endl;
 	}
+	
 	return 0;
 }
