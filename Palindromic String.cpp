@@ -17,6 +17,7 @@ int main()
 			break;
 		}
 	}
+	
 	if(f)
 	cout<<"NO";
 	else
