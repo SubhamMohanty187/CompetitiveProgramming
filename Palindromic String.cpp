@@ -6,7 +6,7 @@ int main()
 {
 	int len,f=0;
 	string s;
-	
+
 	cin>>s;
 
 	len = s.length();
