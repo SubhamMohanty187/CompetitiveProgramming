@@ -18,7 +18,6 @@ for(i=0;i<queries.size();i++)
     s.push_back(count);
 }
 return s;
-
 }
 
 int main()
