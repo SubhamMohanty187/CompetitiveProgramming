@@ -22,5 +22,6 @@ int main()
 	  cout<<"NO";
 	else
 	  cout<<"YES";
+	
 	return 0;
 }
