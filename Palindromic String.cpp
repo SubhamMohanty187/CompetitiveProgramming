@@ -19,7 +19,7 @@ int main()
 	}
 	
 	if(f)
-	cout<<"NO";
+	  cout<<"NO";
 	else
 	cout<<"YES";
 	return 0;
