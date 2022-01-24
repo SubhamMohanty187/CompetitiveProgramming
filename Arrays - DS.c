@@ -15,7 +15,7 @@ char** split_string(char*);
 // int a[3] = {1, 2, 3};
 
 // *result_count = 3;
-//
+
 // return a;
 //
 int* reverseArray(int a_count, int* a, int* result_count) {
