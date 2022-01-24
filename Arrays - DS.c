@@ -11,7 +11,6 @@
 char* readline();
 char** split_string(char*);
 
-
 // Please store the size of the integer array to be returned in result_count pointer. For example,
 // int a[3] = {1, 2, 3};
 //
