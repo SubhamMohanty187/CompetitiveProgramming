@@ -5,7 +5,7 @@ def countingValleys(steps, path):
         if i == "U":
             level += 1
             if level == 0:   # Since we count a valley only after
-                valley += 1  # we come out of D
+                valley += 1  
         else:
             level -= 1
     
