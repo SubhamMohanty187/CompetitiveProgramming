@@ -13,7 +13,7 @@ char** split_string(char*);
 
 // Please store the size of the integer array to be returned in result_count pointer.
 // int a[3] = {1, 2, 3};
-//
+
 // *result_count = 3;
 //
 // return a;
