@@ -11,7 +11,7 @@
 char* readline();
 char** split_string(char*);
 
-// Complete the aVeryBigSum
+// Complete the aVery
 long aVeryBigSum(int ar_count, long* ar) {
 long int l=0;
 int i;
