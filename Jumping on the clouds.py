@@ -1,5 +1,5 @@
 def jumpingOnClouds(c):
-    # Write your code
+    # Write your
     i = 0
     jump = 0
     
