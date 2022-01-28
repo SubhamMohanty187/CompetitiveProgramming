@@ -17,7 +17,6 @@ def equalizeArray(arr):
     return n - max(cnt.values())
     
     
-
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
