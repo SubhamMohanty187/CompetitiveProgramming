@@ -12,7 +12,7 @@ char* readline();
 char** split_string(char*);
 // *result_count = 3;
 // return a;
-//
+
 int* reverseArray(int a_count, int* a, int* result_count) {
 int i,start,end,temp;
 start = 0;
