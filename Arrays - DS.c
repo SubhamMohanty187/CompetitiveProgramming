@@ -11,7 +11,6 @@
 char* readline();
 char** split_string(char*);
 
-
 // int a[3] = {1, 2, 3};
 
 // *result_count = 3;
