@@ -10,7 +10,6 @@
 
 char* readline();
 char** split_string(char*);
-
 // *result_count = 3;
 
 // return a;
