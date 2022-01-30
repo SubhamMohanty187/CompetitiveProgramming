@@ -1,5 +1,4 @@
 def angryProfessor(k, a):
- 
     n = 0
     p = 0
     for i in a:
