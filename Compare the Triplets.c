@@ -18,7 +18,7 @@ char** split_string(char*);
 
 
 
- *     - Allocate the array statically or dynamically
+
  *
  * For example,
  * int* return_integer_array_using_static_allocation(int* result_count) {
