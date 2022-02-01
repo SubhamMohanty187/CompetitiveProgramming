@@ -14,7 +14,6 @@ char* ltrim(char*);
 char* rtrim(char*);
 char** split_string(char*);
 
-// Complete the compareTriplets function below.
 
 
 
