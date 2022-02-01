@@ -19,7 +19,7 @@ char** split_string(char*);
 
 
  *
- * For example,
+
  * int* return_integer_array_using_static_allocation(int* result_count) {
  *     *result_count = 5;
  *
