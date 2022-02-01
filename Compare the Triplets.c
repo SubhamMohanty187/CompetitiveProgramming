@@ -18,7 +18,6 @@ char** split_string(char*);
 
 
 
- *     - Store the size of the array to be returned in the result_count variable
  *     - Allocate the array statically or dynamically
  *
  * For example,
