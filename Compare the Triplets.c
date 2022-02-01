@@ -17,7 +17,7 @@ char** split_string(char*);
 // Complete the compareTriplets function below.
 
 
- * To return the integer array from the function, you should:
+
  *     - Store the size of the array to be returned in the result_count variable
  *     - Allocate the array statically or dynamically
  *
