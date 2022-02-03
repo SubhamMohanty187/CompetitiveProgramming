@@ -63,7 +63,6 @@ int main()
     }
 
     fprintf(fptr, "\n");
-
     fclose(fptr);
 
     return 0;
