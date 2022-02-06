@@ -15,7 +15,8 @@ int main() {
     // The initial value will be the input (ex: 999 x 998 x 997
     // so fill with chars for 999)
     
-    for (int i = 0; i < strlen(n); i++) {
+    for (int i = 0; i < strlen(n); i++) 
+    {
         expansion[i] = n[i];
     }
     
