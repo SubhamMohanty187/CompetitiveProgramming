@@ -4,6 +4,7 @@
 #include <stdlib.h>
 int main() {
     // Support input from 0 to 999
+    
     char n[4] = {0};
     scanf("%s",n);
     
