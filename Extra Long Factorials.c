@@ -63,7 +63,8 @@ int main() {
                notzero = 1;
            }
            
-           if (notzero) {
+           if (notzero) 
+           {
                 expansion[position] = totals[p0] + '0';
                 position++;
            }
