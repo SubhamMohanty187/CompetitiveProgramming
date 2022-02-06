@@ -23,6 +23,7 @@ int main() {
     // Start at one less than the input (ex: 998), and as 
     // long as we're greater than 1 keep decrementing
     // (we don't really need to multiply by 1)
+    
     int start = atoi(n)-1;
     for (int i = start; i > 1; i--) {
        sprintf(n, "%d", i);
