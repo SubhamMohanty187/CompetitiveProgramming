@@ -9,6 +9,7 @@ int main() {
     scanf("%s",n);
     
     // 999! has 2565 digits, plus a null terminator
+    
     char expansion[256] = {0};
     
     // The initial value will be the input (ex: 999 x 998 x 997
