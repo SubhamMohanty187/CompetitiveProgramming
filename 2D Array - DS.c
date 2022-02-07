@@ -11,7 +11,6 @@
 char* readline();
 char** split_string(char*);
 
-// Co
 int hourglassSum(int arr_rows, int arr_columns, int** arr) {
 int i,j,max=-100,sum=0;
 for(i=0;i<arr_rows-2;i++)
