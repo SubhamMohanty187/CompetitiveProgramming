@@ -20,7 +20,8 @@ typedef struct
 linklistp insert_tail(linklistp head,linklistp newnode)
 {
 
-    if (head == NULL) {
+    if (head == NULL) 
+    {
         head = newnode;
     } else {
         linklistp temp = head;
