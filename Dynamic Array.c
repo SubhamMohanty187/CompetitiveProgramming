@@ -11,7 +11,8 @@ typedef struct linklist
     struct linklist *next;
 }linknode, *linklistp;
 
-typedef struct {
+typedef struct 
+{
     linklistp head;
     int size;
 }SEQUENCE;
