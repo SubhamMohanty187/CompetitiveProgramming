@@ -23,7 +23,8 @@ linklistp insert_tail(linklistp head,linklistp newnode)
     if (head == NULL) 
     {
         head = newnode;
-    } else {
+    } else 
+    {
         linklistp temp = head;
         while(temp->next != NULL)
             temp = temp->next;
